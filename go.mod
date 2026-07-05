@@ -1,0 +1,1 @@
+module github.com/m1sol/event-store
